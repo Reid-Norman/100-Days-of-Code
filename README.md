@@ -1,6 +1,6 @@
 # 100 Days of Code / Python Bootcamp
 
-I am doing this as a Udemy course which is taught by Dr. Angela Yu. I am taking this course in tandem with Jose Portilla's Complete Python Bootcamp.
+I am doing this as a Udemy course which is taught by Dr. Angela Yu. I am taking this course in tandem with Jose Portilla's Complete Python Bootcamp. As I move through the course, I will continue uploading the projects I find most interesting.
 
 ## Purpose
 
