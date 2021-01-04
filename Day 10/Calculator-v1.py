@@ -22,6 +22,7 @@ operations = {
     "-": subtract, 
     "*": multiply, 
     "/": divide
+}
 
 calculation_complete = True
 
